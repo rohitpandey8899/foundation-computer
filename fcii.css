@@ -476,7 +476,15 @@ body {
   -webkit-transform: scale(1.1);
           transform: scale(1.1);
 }
-
+.icon-fci {
+  left: 5px;
+  bottom: 5px;
+  width: 50px;
+}
+.icon-fci img {
+  width: 4%;
+vertical-align: top;
+}
 .icon-link {
   position: absolute;
   left: 5px;
